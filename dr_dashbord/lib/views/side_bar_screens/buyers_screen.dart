@@ -1,3 +1,4 @@
+
 import 'package:flutter/material.dart';
 
 class BuyersScreen extends StatelessWidget {
@@ -17,4 +18,5 @@ class BuyersScreen extends StatelessWidget {
       ),
     );
   }
+
 }
